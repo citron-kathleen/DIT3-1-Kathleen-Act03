@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProfileUI</string>
+    <string name="edit_profile">EDIT PROFILE</string>
+    <string name="satoru_gojo">Satoru Gojo</string>
+    <string name="about">About</string>
+    <string name="i_like_playing_online_games">I like playing Online Games</string>
+    <string name="banner_image_desc">Profile banner background</string>
+    <string name="profile_image_desc">User profile picture</string>
+</resources>
